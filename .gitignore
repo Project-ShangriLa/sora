@@ -1,0 +1,6 @@
+.project
+.buildpath
+conf/conf.json
+.idea/
+test_image/*
+private

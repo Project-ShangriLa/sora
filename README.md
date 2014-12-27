@@ -3,9 +3,9 @@
 ShangriLa API Server
 
 ## 概要
-アニメの情報を返すREST型のAPIサーバーです。
+アニメ作品の情報を返すREST型のAPIサーバーです。
 
-Ruby Sinataで実装。
+Ruby Sinatraで実装。
 
 シンプルな実装にしてサーバーの実装は変更しやすいようにします。
 
@@ -20,6 +20,8 @@ Ruby Sinataで実装。
 * bundle install
 
 ## 起動方法
+
+bundle exec ruby sora.rb　-p 80 -e production
 
 記述中
 
