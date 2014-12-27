@@ -46,7 +46,7 @@ ShangriLa API Serverサーバーが持っているマスターの情報のリス
 レスポンス例:curl
 
 ```
- $curl /anime/v1/master/list
+ $curl http://api.moemoe.tokyo/anime/v1/master/list
  
  {
   '2014' : [1,2,3,4],
